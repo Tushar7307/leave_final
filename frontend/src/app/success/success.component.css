@@ -1,0 +1,13 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+.btn2{
+    margin:20px;
+    margin-left:90px;
+    width:100px;
+    background-color: #fff;
+    float:left
+}
+.btn2:hover{
+    background-color: #000;
+    color:#fff;
+}
