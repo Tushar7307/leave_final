@@ -1,0 +1,99 @@
+[{
+  "_id": {
+    "$oid": "60915778b7804f76a15c3c67"
+  },
+  "name": "tushar",
+  "email": "tushar@123gmail.com",
+  "password": "$2b$10$X3yMTgocxVPonXcpiRNffOJVQ14wVPqXgpx.b74O2kQHEWcv4/K36",
+  "__v": 0
+
+
+},{
+  "_id": {
+    "$oid": "609157ceba9af276c6c1f3ac"
+  },
+  "name": "tushar",
+  "email": "tushar@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+},
+
+{
+  "_id": {
+    "$oid": "609158830f77f5783c82390c"
+  },
+  "name": "aman agarwal",
+  "email": "aman@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+},
+
+{
+  "_id": {
+    "$oid": "6091589f0f77f5783c82390d"
+  },
+  "name": "ankit kumar",
+  "email": "ankit@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+},
+
+{
+  "_id": {
+    "$oid": "609158ac0f77f5783c82390e"
+  },
+  "name": "akash kumar",
+  "email": "akash@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+},
+
+{
+  "_id": {
+    "$oid": "609158ba0f77f5783c82390f"
+  },
+  "name": "rohit kumar",
+  "email": "rohit@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609158ce0f77f5783c823910"
+  },
+  "name": "sudhir kumar",
+  "email": "sudhir@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609158e40f77f5783c823911"
+  },
+  "name": "abhishek kumar",
+  "email": "abhishek@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609159260f77f5783c823912"
+  },
+  "name": "shubham kumar",
+  "email": "shubham@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "609159390f77f5783c823913"
+  },
+  "name": "deepak kumar",
+  "email": "deepak@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6091594c0f77f5783c823914"
+  },
+  "name": "gautam kumar",
+  "email": "gautam@1234gmail.com",
+  "password": "123456",
+  "__v": 0
+}]
