@@ -5,7 +5,7 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
-  {path:'api/auth',component:AuthComponent},
+  {path:'',component:AuthComponent},
   {path:'api/leave',component:LeaveComponent},
   {path:'api/success',component:SuccessComponent}
 ];
